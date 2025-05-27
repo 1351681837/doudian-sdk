@@ -1,0 +1,26 @@
+{
+  "name": "jloong/doudian-sdk",
+  "description": "抖店sdk  版本doudian-sdk-php-1.1.0 ",
+  "keywords": [
+    "抖店",
+    "doudian",
+    "抖音店铺"
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Long\\DoudianSdk\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "long-135",
+      "email": "1351681837@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  }
+}
